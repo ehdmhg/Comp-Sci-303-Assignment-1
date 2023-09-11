@@ -1,1 +1,9 @@
 # Comp-Sci-303-Assignment-1
+1. Program implements the given text file containing the 100 numbers into an array with a size of 150. If the text file is not found, the program issues out a warning that the array could not be filled with the numbers.
+2. After implmenting the text file into the array, the program then pops up a menu containing 6 interactable options(functions)that the user can access.
+3. The first option is a function that checks to see if a value is found within the array. If the user's chosen value is found within the array, prints out a message stating where the user's chosen value was found at its index. If it is not found, the program prints out a message stating that the value is not in the array. <See Screenshot 1>
+4. The second option is a function that modifies the value of a chosen index. The user can modify a value of the array given the choice of the index. If the program finds the first occurence of the value, the program prints out a statement stating the index that was changed with its old and new values. if the index is not found, the program prints out an error message <See ScreenShot 2>
+5. The third option is a function that adds a new integer to the end of the array. If the array's size is unable to add another integer, the program prints out an error message indiciating that the array risks being overflowed. <For testing purposes, the array's size was registered as 101 in Screenshot 3 but the array's default capacity was 150.>
+6. The fourth option is a function that intakes a chosen index of the array and replaces that index's value with a zero. <See Screenshot 4>
+7. The fifth option prints the array which insures that the given functions are peforming and accurately recording the array's data when modifiying.
+8. The sixth option prints the final array after adjustments before ending the program. <See Screenshot 5>
