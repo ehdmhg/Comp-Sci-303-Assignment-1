@@ -7,3 +7,4 @@
 6. The fourth option is a function that intakes a chosen index of the array and replaces that index's value with a zero. <See Screenshot 4>
 7. The fifth option prints the array which insures that the given functions are peforming and accurately recording the array's data when modifiying.
 8. The sixth option prints the final array after adjustments before ending the program. <See Screenshot 5>
+Note: The pdf of the pictures goes from Screenshot 1 to Screenshot 5. They were included because the screenshots in the github would ocasionally show only the 1st screenshot. 
